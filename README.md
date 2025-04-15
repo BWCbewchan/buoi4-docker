@@ -34,55 +34,39 @@ docker run -d nginx
 ## Minh chứng thực hiện
 
 ### Phần 1: Các lệnh Docker cơ bản
-
-#### Kiểm tra cài đặt Docker
-![Docker Version](minhchung/docker-version.png)
-
-#### Chạy container Hello World
-![Hello World](minhchung/hello-world.png)
-
-#### Quản lý Images và Containers
-![Docker Images](minhchung/docker-images.png)
-![Docker PS](minhchung/docker-ps.png)
+![Các lệnh cơ bản](minhchung/phan1.png)
 
 ### Phần 2: Thực hành với Dockerfile
 
 #### Bài 1: Node.js Application
-![Node.js Build](minhchung/nodejs-build.png)
-![Node.js Running](minhchung/nodejs-running.png)
+![Node.js Application](minhchung/phan2bai1.png)
 
 #### Bài 2: Python Flask Application
-![Flask Build](minhchung/flask-build.png)
-![Flask Running](minhchung/flask-running.png)
+![Python Flask Application](minhchung/phan2bai2.png)
 
 #### Bài 3: React Application
-![React Build](minhchung/react-build.png)
-![React Running](minhchung/react-running.png)
+![React Application](minhchung/phan2bai3.png)
 
 #### Bài 4: Static Website với Nginx
-![Nginx Build](minhchung/nginx-build.png)
-![Nginx Running](minhchung/nginx-running.png)
+![Static Website Nginx](minhchung/phan2bai4.png)
 
 #### Bài 5: Go Application
-![Go Build](minhchung/go-build.png)
-![Go Running](minhchung/go-running.png)
+![Go Application](minhchung/phan2bai5.png)
 
 #### Bài 6: Multi-stage Build
-![Multi-stage Build](minhchung/multistage-build.png)
-![Multi-stage Running](minhchung/multistage-running.png)
+![Multi-stage Build](minhchung/phan2bai6.png)
 
 #### Bài 7: Environment Variables
-![Env Build](minhchung/env-build.png)
-![Env Running](minhchung/env-running.png)
+![Environment Variables](minhchung/phan2bai7.png)
 
 #### Bài 8: PostgreSQL
-![PostgreSQL Build](minhchung/postgres-build.png)
-![PostgreSQL Running](minhchung/postgres-running.png)
+![PostgreSQL Setup](minhchung/phan2bai8.png)
 
 #### Bài 9: Redis
-![Redis Build](minhchung/redis-build.png)
-![Redis Running](minhchung/redis-running.png)
+![Redis Configuration](minhchung/phan2bai9.png)
 
 #### Bài 10: PHP với Apache
-![PHP Build](minhchung/php-build.png)
-![PHP Running](minhchung/php-running.png)
+![PHP Apache](minhchung/phan2bai10.png)
+
+#### Docker PS Command
+![Docker PS](minhchung/phan2dockerps.png)
